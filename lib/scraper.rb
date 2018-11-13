@@ -12,6 +12,4 @@ class Scraper
 
   end
 
-  puts @@all
-
 end
