@@ -1,6 +1,6 @@
 require 'open-uri'
 require 'pry'
-require 'Nokogiri'
+
 
 class Scraper
 
