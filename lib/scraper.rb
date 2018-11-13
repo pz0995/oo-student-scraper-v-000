@@ -12,6 +12,6 @@ class Scraper
 
   end
   
-  student
-  
+  puts student
+
 end
