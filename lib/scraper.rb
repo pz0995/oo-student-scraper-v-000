@@ -4,13 +4,12 @@ require 'Nokogiri'
 
 class Scraper
 
-  def self.scrape_index_page(student.rb)
-    
+  def self.scrape_index_page(student)
+
   end
 
   def self.scrape_profile_page(profile_url)
-    
+
   end
 
 end
-
